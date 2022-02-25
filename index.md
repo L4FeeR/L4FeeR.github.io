@@ -20,7 +20,7 @@ Here i provided my github's activity with proper link.
 
     Cloning with proper github link :
 
-  >`git clone https:/)github.com/L4FeeR/XXX.git
+  >`git clone https:/)github.com/L4FeeR/XXX.git`
      --Here Mention the tool or project name instead of XXX above--
 
 ## ***My Tools And Projects...***
