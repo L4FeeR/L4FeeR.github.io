@@ -1,6 +1,6 @@
 ## ***Welcome To My Coding Space***
 
-## ***Am a Scriot Kiddie***
+## ***Am a Script Kiddie***
 
 
 Here i provided my github's activity with proper link.
