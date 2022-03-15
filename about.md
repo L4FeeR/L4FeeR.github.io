@@ -14,9 +14,9 @@ depends on linux.**
 * * * 
 ### *Currently Available In :*
 
-     [Telegram](https://t.me/kali_nethunter_android)
+   [Telegram](https://t.me/kali_nethunter_android)
 
-     [InstaGram](instagram.com/ig_lafeer)
+   [InstaGram](instagram.com/ig_lafeer)
 
 * * *
 
