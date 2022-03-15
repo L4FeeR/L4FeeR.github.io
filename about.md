@@ -5,10 +5,10 @@
 **Just a boy, who like to scripting or automation something 
 depends on linux.**
 
-## **I Love NetHunter,
-            Kali,
-            Kernel Compiling,
-            Wifi Hacking...**
+## **I Love NetHunter,**
+            **Kali,**
+           **Kernel Compiling,**
+            **Wifi Hacking...**
 
 
 * * * 
@@ -22,4 +22,4 @@ depends on linux.**
 
 ## **Topics I Covered...**
 
-     1.[What Is Nethunter?](nethunter.md)
+  1.[What Is Nethunter?](nethunter.md)
