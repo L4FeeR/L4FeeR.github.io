@@ -5,7 +5,10 @@
 **Just a boy, who like to scripting or automation something 
 depends on linux.**
 
-## **I Love NetHunter, Kali, Kernel Compiling, Wifi Hacking...**
+## **I Love NetHunter,
+            Kali,
+            Kernel Compiling,
+            Wifi Hacking...**
 
 
 * * * 
