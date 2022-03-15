@@ -6,9 +6,9 @@
 depends on linux.**
 
 ## **I Love NetHunter,**
-            **Kali,**
-           **Kernel Compiling,**
-            **Wifi Hacking...**
+        1.Kali,
+        2.Kernel Compiling,
+        3.Wifi Hacking.
 
 
 * * * 
