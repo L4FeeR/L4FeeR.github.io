@@ -1,6 +1,6 @@
-#Setting Up **Kali Nethunter** On Rooted Device
+# Setting Up **Kali Nethunter** On Rooted Device
 
-###What Is Nethunter?
+### What Is Nethunter?
  
 *Nethunter is an open source project of "kali linux on android".
 Which mainly focusing the full kali linux on android environment.
