@@ -4,7 +4,10 @@
  
 *Nethunter is an open source project of `kali linux` on android.*
 Which mainly focusing the full kali linux on android environment.
-The Nethunter project was started on 2015 from a specific device like nexus and oneplus.Kali Nethunter mostly needed two of the following : 
+The Nethunter project was started on 2015 from a specific device like nexus and oneplus.
+
+Kali Nethunter mostly needed two of the following : 
+
   1.Rooted Device (Magisk).
   2.Nethunter Specific Kernel.
 
@@ -12,8 +15,8 @@ The Nethunter project was started on 2015 from a specific device like nexus and 
 
 ## Installing On Rooted {Magisk} Device...
 
-   -Here there is 2 method,
-        Installing Via 
+   *Here there is 2 method,*
+*    Installing via :
            1.Custom Recovery.
            2.Magisk {app} Module.
 
