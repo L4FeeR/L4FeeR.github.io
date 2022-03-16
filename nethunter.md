@@ -46,4 +46,6 @@ Kali Nethunter mostly needed two of the following :
 
 ###It will be installed...
 
+## Read This Page For SomeThing About NH : 
 
+[Click Here To Redirect](nh-utils.md)
