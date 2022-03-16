@@ -3,12 +3,12 @@
 
 # ***MUH4M3D L4FeeR***
 
-**Just a boy, who like to scripting or automation something 
+**Just a guy, who like to scripting or automating something 
 depends on linux.**
 
 ## **I Love**
         1.NetHunter,
-        2.Kali,
+        2.Custom Rom,
         3.Kernel Compiling,
         4.Wifi Hacking.
 
