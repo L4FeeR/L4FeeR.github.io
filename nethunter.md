@@ -32,3 +32,18 @@ Kali Nethunter mostly needed two of the following :
 *           Click And Flash It.
 
 ##### It will be installed...
+
+###2nd Method :
+   ##Requirements: 
+*       Rooted With Magisk (18 above version)
+*       Atleast 8GB Internal Storage Free Space Needed.
+
+###Installation : 
+
+* Download The Nethunter Generic ZIP from above link.
+* Open `Magisk app` --> `Module Section`
+* Select The Downloaded Generic Zip And Flash It
+
+###It will be installed...
+
+
