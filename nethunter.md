@@ -32,7 +32,7 @@ Kali Nethunter mostly needed two of the following :
 *           Click And Flash It.
 
 ##### It will be installed...
-
+* * *
 ###2nd Method :
    ##Requirements: 
 *       Rooted With Magisk (18 above version)
@@ -45,6 +45,8 @@ Kali Nethunter mostly needed two of the following :
 * Select The Downloaded Generic Zip And Flash It
 
 ###It will be installed...
+
+* * *
 
 ## Read This Page For SomeThing About NH : 
 
