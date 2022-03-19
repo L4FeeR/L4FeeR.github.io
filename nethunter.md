@@ -20,7 +20,7 @@ Kali Nethunter mostly needed two of the following :
           -1.Custom Recovery.
           -2.Magisk {app} Module.
 
-###1st Method : 
+### 1st Method : 
 
 *           Downlaod Nethunter Generic Image For Here : 
                        - [Arm64](https://kali.download/nethunter-images/kali-2022.1/nethunter-2022.1-generic-arm64-kalifs-full.zip)
@@ -33,18 +33,18 @@ Kali Nethunter mostly needed two of the following :
 
 ##### It will be installed...
 * * *
-###2nd Method :
-   ##Requirements: 
+### 2nd Method :
+   ### Requirements: 
 *       Rooted With Magisk (18 above version)
 *       Atleast 8GB Internal Storage Free Space Needed.
 
-###Installation : 
+### Installation : 
 
 * Download The Nethunter Generic ZIP from above link.
 * Open `Magisk app` --> `Module Section`
 * Select The Downloaded Generic Zip And Flash It
 
-###It will be installed...
+### It will be installed...
 
 * * *
 
