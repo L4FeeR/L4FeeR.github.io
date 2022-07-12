@@ -19,13 +19,13 @@ Here Is The Menu Of This Entire-Post.
 **Like To Be A Kramel Dev.**
     **Links**
 
-![t.me/l4feer](assests/telegram.png)
+![t.me/l4feer](assets/telegram.png)
    [Telegram](https://t.me/kali_nethunter_android)
 
 ![youtube.com](assets/youtube.png)
    [Youtube](https://youtube.com/channel/UCOB6x1Bn0dpBk0ZOHcARKYQ)
 
-![github.com/L4FeeR](assests/github.png)
+![github.com/L4FeeR](assets/github.png)
    [Github](https://github.com/L4FeeR)
 
  * * * 
