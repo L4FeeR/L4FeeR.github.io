@@ -36,9 +36,12 @@ Here Is The Menu Of This Entire-Post.
 #**Kernel**
 
 **Device   : Redmi Note 6 Pro**
-**Codename : tulip**
-**Android  : 9p,10q,11r,12s**
 
+**Codename : tulip**
+
+**Android  : 9p,10q,11r,12s**
+#⠀
+#⠀
 
 **Newcam**
 
