@@ -19,44 +19,31 @@ Here Is The Menu Of This Entire-Post.
 **Like To Be A Kramel Dev.**
     **Links**
 
+![t.me/l4feer](assests/telegram.png)
    [Telegram](https://t.me/kali_nethunter_android)
 
+![youtube.com](assets/youtube.png)
    [Youtube](https://youtube.com/channel/UCOB6x1Bn0dpBk0ZOHcARKYQ)
 
+![github.com/L4FeeR](assests/github.png)
    [Github](https://github.com/L4FeeR)
 
  * * * 
 
 
-* * *
-
-# ***My Github Activity...***
 
 
-## ***How To Install Or Clone My Tools?***
+#**Kernel**
 
-**You must install `git` package on linux by**
->    `apt install git -y`
-
-
-
-## **Cloning My Tools.**
-
-    Cloning with proper github link :
-
-  >`git clone https://github.com/L4FeeR/XXX.git`
+**Device   : Redmi Note 6 Pro**
+**Codename : tulip**
+**Android  : 9p,10q,11r,12s**
 
 
- *Here Mention the tool or project name instead of XXX above*
+**Newcam**
 
+[L4FeeR-NetHunTeR-NewCam-V6.8c](assests/kernel/L4FeeR-NetHunTeR-NewCam-V6.8c.zip)
 
-* * *
+**Oldcam**
 
-## ***My Tools And Projects...***
-
- *1.Nethunter-Automation* ==> [Click Here](https://github.com/L4FeeR/Nethunter-Automation)
-
- *2.Nethunter-Wifite*     ==> [Click Here](https://github.com/L4FeeR/NH-Wifite)
-
-
-* * *
+[L4FeeR-NetHunTeR-OldCam-V6.8c](assests/kernel/L4FeeR-NetHunTeR-OldCam-V6.8c)
