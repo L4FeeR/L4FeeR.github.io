@@ -9,13 +9,13 @@
 * * *
 
 
-## ***⠀⠀⠀⠀⠀⠀My-Self***
+## **⠀⠀⠀⠀⠀⠀My-Self**
 
 ![L4FeeR](assets/l4feer.png)
 
   > `Muhamed L4FeeR`,
 
-** just a normal guy ,who like Software and Programming Side.***
+**just a normal guy ,who like Software and Programming Side.**
 
 **Like To Be A Kramel Dev :p**
 
@@ -56,8 +56,6 @@
 
 # [L4FeeR-NetHunTeR-OldCam-V6.8c](assests/kernel/L4FeeR-NetHunTeR-OldCam-V6.8c)
 ————————————————————————————————————————————————
-
-* * *
 
 ##           **Pages**
 
