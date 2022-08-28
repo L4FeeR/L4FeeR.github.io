@@ -22,7 +22,7 @@ Kali Nethunter mostly needed two of the following :
           -1.Custom Recovery.
 
           -2.Magisk {app} Module.
-
+* * *
 ### 1st Method : 
 
 *           Downlaod Nethunter Generic Image For Here : 
@@ -37,6 +37,7 @@ Kali Nethunter mostly needed two of the following :
 ##### It will be installed...
 * * *
 ### 2nd Method :
+
 ###   Requirements: 
 *       Rooted With Magisk (magisk version 18+)
 *       Atleast 8GB Internal Storage Free Space Needed.
