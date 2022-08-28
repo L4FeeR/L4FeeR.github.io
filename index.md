@@ -24,11 +24,11 @@
 
 ## **⠀⠀⠀⠀⠀⠀Links**
 
-         ------> [Telegram](https://t.me/kali_nethunter_android)
+         - [Telegram](https://t.me/kali_nethunter_android) |
 
-         ------> [Youtube](https://youtube.com/channel/UCOB6x1Bn0dpBk0ZOHcARKYQ)
+         - [Youtube](https://youtube.com/channel/UCOB6x1Bn0dpBk0ZOHcARKYQ) |
 
-         ------> [Github](https://github.com/L4FeeR)
+         - [Github](https://github.com/L4FeeR)
 
  * * * 
 
@@ -45,18 +45,18 @@
 
 
 —————————————————————————————————————————————————
-# **Newcam**
+#** Newcam**
 
 
 # [L4FeeR-NetHunTeR-NewCam-V6.8c](assests/kernel/L4FeeR-NetHunTeR-NewCam-V6.8c.zip)
 
 
-# **Oldcam**
+#** Oldcam**
 
 
 # [L4FeeR-NetHunTeR-OldCam-V6.8c](assests/kernel/L4FeeR-NetHunTeR-OldCam-V6.8c)
 ————————————————————————————————————————————————
 
-##           **Pages**
+##**           Pages**
 
-      - [Nethunter](nethunter.md)
+      ### [Nethunter](nethunter.md)
