@@ -53,6 +53,6 @@
 ### [L4FeeR-NetHunTeR-OldCam-V6.8c](assests/kernel/L4FeeR-NetHunTeR-OldCam-V6.8c)
 —————————————————————————————————————————
 
-##              Pages.
+##              Topics.
 
 * [Nethunter](/nethunter.md)
