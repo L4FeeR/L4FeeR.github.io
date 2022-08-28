@@ -52,6 +52,6 @@ Kali Nethunter mostly needed two of the following :
 
 * * *
 
-## Read This Page For SomeThing About NH : 
+## Read second page of this topic also : 
 
-[Click Here To Redirect](nh-utils.md)
+[Page-2](nh-utils.md)
