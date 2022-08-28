@@ -9,7 +9,7 @@
 * * *
 
 
-***⠀⠀⠀⠀⠀⠀⠀⠀⠀My-Self***
+## ***⠀⠀⠀⠀⠀⠀⠀⠀⠀My-Self***
 
 ![L4FeeR](assets/l4feer.png)
 
@@ -21,7 +21,7 @@
 * * *
 
 
-**⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Links**
+## **⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Links**
 
          **┌------->**  [Telegram](https://t.me/kali_nethunter_android)
 
@@ -38,7 +38,7 @@
 
 
 
-**⠀⠀⠀⠀⠀⠀⠀⠀My⠀Kernel Builds.**
+## **⠀⠀⠀⠀⠀⠀⠀⠀My⠀Kernel Builds.**
 
 **Device      : Redmi Note 6 Pro**
 
