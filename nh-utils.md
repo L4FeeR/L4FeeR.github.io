@@ -17,3 +17,10 @@
 ### Successfully Setup Complete.
 
 ## If you wanna run nh in termux , run nh command on termux ,it will up the nh chroot.
+
+* * *
+
+## HOME
+[Click Here To Go Home Page](index.md)
+
+* * *
