@@ -37,7 +37,7 @@ Kali Nethunter mostly needed two of the following :
 ##### It will be installed...
 * * *
 ### 2nd Method :
-   ### Requirements: 
+###   Requirements: 
 *       Rooted With Magisk (magisk version 18+)
 *       Atleast 8GB Internal Storage Free Space Needed.
 
