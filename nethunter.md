@@ -16,8 +16,11 @@ Kali Nethunter mostly needed two of the following :
 ## Installing On Rooted {Magisk} Device...
 
    *Here there is 2 method,*
+
     -Installing via :
+
           -1.Custom Recovery.
+
           -2.Magisk {app} Module.
 
 ### 1st Method : 
