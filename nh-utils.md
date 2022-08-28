@@ -14,6 +14,6 @@
 
 > cp nh /usr/bin && chmod +x /usr/bin/nh
 
-### Successfully Setup Conplete.
+### Successfully Setup Complete.
 
 ## If you wanna run nh in termux , run nh command on termux ,it will up the nh chroot.
