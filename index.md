@@ -24,7 +24,7 @@
 
 ## **⠀⠀⠀⠀⠀⠀Links**
 
-         [Telegram](https://t.me/kali_nethunter_android) | [Youtube](https://youtube.com/channel/UCOB6x1Bn0dpBk0ZOHcARKYQ) | [Github](https://github.com/L4FeeR)
+  [Telegram](https://t.me/kali_nethunter_android) | [Youtube](https://youtube.com/channel/UCOB6x1Bn0dpBk0ZOHcARKYQ) | [Github](https://github.com/L4FeeR)
 
  * * * 
 
@@ -55,4 +55,4 @@
 
 ## **           Pages**
 
-      * [Nethunter](/nethunter.md)
+* [Nethunter](/nethunter.md)
