@@ -31,13 +31,13 @@
 
 
 
-## **⠀⠀⠀⠀⠀⠀My⠀Kernel Builds.**
+## **⠀⠀⠀⠀⠀My⠀Kernel Builds.**
 
-**Device      : Redmi Note 6 Pro**
+**Device        : Redmi Note 6 Pro**
 
-**Codename : tulip**
+**Codename  : tulip**
 
-**Android    : 9p,10q,11r,12s**
+**Android       : 9p,10q,11r,12s**
 
 
 —————————————————————————————————————————————————
