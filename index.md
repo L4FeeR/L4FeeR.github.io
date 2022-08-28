@@ -61,4 +61,4 @@
 
 ##           **Pages**
 
-     **1.**[Nethunter](nethunter.md)
+     1.[Nethunter](nethunter.md)
