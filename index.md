@@ -31,28 +31,16 @@
 
 
 
-## **⠀⠀⠀⠀⠀My⠀Kernel Builds.**
+## **⠀⠀⠀⠀⠀Current Running Linux.**
 
-**Device        : Redmi Note 6 Pro**
+**Device        : Garuda Linux**
 
-**Codename  : tulip**
+**Kernel Version   : 6.6.1-zen**
 
-**Android       : 9p,10q,11r,12s**
+##**sudo pacman -Syu**
 
 
 ——————————————————————————————————————————
-##   Newcam
-
-
-### [L4FeeR-NetHunTeR-NewCam-V6.8c](assests/kernel/L4FeeR-NetHunTeR-NewCam-V6.8c.zip)
-
-
-##   Oldcam
-
-
-### [L4FeeR-NetHunTeR-OldCam-V6.8c](assests/kernel/L4FeeR-NetHunTeR-OldCam-V6.8c)
-—————————————————————————————————————————
-
 ##              Topics.
 
 * [Nethunter](/nethunter.md)
