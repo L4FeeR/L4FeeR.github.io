@@ -15,16 +15,16 @@
 
   > `Muhamed L4FeeR`,
 
-**just a normal guy ,who like Software and Programming Side.**
+**just a normal guy ,who like linux and Programming.**
 
-**Like To Be A Kramel Dev :p**
+**Like To Be A Kramel Dev :)**
 
 * * *
 
 
 ## **⠀⠀⠀⠀⠀⠀Links**
 
-  [Telegram](https://t.me/kali_nethunter_android) | [Youtube](https://youtube.com/channel/UCOB6x1Bn0dpBk0ZOHcARKYQ) | [Github](https://github.com/L4FeeR)
+  [Telegram](https://t.me/l4feer) | [Github](https://github.com/L4FeeR)
 
  * * * 
 
