@@ -37,7 +37,7 @@
 
 **Kernel Version   : 6.6.1-zen**
 
-##**sudo pacman -Syu**
+**`sudo pacman -Syu`**
 
 
 ——————————————————————————————————————————
