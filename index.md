@@ -33,9 +33,9 @@
 
 ## **⠀⠀⠀⠀⠀Current Running Linux.**
 
-**Device        : Garuda Linux**
+**Device        : Arch Linux**
 
-**Kernel Version   : 6.6.1-zen**
+**Kernel Version   : 6.6-**
 
 **`sudo pacman -Syu`**
 
