@@ -35,7 +35,7 @@
 
 **Device        : Arch Linux**
 
-**Kernel Version   : 6.6-**
+**Kernel Version   : 6.6**
 
 **`sudo pacman -Syu`**
 
@@ -43,4 +43,5 @@
 ——————————————————————————————————————————
 ##              Topics.
 
+* [Telegram-Sender](/telegram-sender.md)
 * [Nethunter](/nethunter.md)
