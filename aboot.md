@@ -1,8 +1,8 @@
 # ***Welcome 2 My Coding Space***
 
-# *	#L4FeeR*
+#         *L4FeeR*
 
-***Here is the index page of all my articles***
+**Here is the index page of all my articles**
 
 * * *
 
@@ -14,16 +14,16 @@
 
 **A Normal Hooman who loves linux and programming.**
 
-**LFS is Dream Project** 
+ > **LFS is Dream Project** 
 
-* * *
+*  * *
 ## **Contacts**
 
 [Telegram](https://t.me/l4feer) | [Github](github.com/l4feer) | [Mail](muhamedlafeer837@gmail.com) | [Discord](discord.me/l4feer0429)
 
 * * *
 
-## **Current running distro: **
+## **Current running distro:**
 
 **OS			: EndeavourOS(arch) + ZorinOS(debian)**  (Dualboot)
 
