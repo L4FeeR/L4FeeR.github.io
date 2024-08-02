@@ -6,7 +6,7 @@
 
 * * *
 
-## ** My-Self
+## ** My-Self**
 
 ![L4FeeR](assets/l4feer.png)
 
@@ -17,7 +17,7 @@
 **LFS is Dream Project** 
 
 * * *
-## *Contacts**
+## **Contacts**
 
 [Telegram](https://t.me/l4feer) | [Github](github.com/l4feer) | [Mail](muhamedlafeer837@gmail.com) | [Discord](discord.me/l4feer0429)
 
@@ -25,12 +25,14 @@
 
 ## **Current running distro: **
 
-**OS			: EndeavourOS<arch> + ZorinOS<debian>**  (Dualboot)
+**OS			: EndeavourOS(arch) + ZorinOS(debian)**  (Dualboot)
 
-**Kernel Version	: 6.10.2 <custom built>**
+**Kernel Version	: 6.10.2 (custom built)**
 
 **FileSystem		: Always BTRFS :)**
 
 -----------------------------------------------------------------------------
+
 [Articles](/articles.md) | [Git-Repositories](https://github.com/L4FeeR?tab=repositories) | [Bio-Own-ology](/aboutme.md)
+
 -----------------------------------------------------------------------------
