@@ -10,7 +10,7 @@ An 18year old kiddo, who shows some interest towards system especially `Linux`
 
 * Love to explore new utilities, test them and integrate them with my own scripts
 * Building Android, Linux Kernel : Hope to be a `Kramel Dev` :)
-* Testing new Linux Distro, DE ; `DistrHopper`
+* Testing new Linux Distro, DE ; `DistroHopper`
 * Currently Flutter app development...
 
 <br>
@@ -35,10 +35,10 @@ An 18year old kiddo, who shows some interest towards system especially `Linux`
 
 ## I Hate
 <br>
-* `Apple Ecosystem` : A piece of shit where everything is cofigured on basis of non-opensource project,
+* `Apple Ecosystem` : A piece of shit where everything is configured on basis of non-opensource project,
 thus lacks in free modification/customization!
-* `Being disrespected` : Never give a fuck if i felt one time*
-* `Competing` : I literally hate compete with someone,othewise friendly duo would be fine!
+* `Being disrespected` : I Never give a fuck! if i felt one time*
+* `Competing` : literally I hate compete with someone,otherwise friendly duo would be fine!
 * `Being called as Techie` : Literally am dumb in here, u can only understand this if u r with me, otherwise misunderstand surely happen!
 * `Sleep` : No hate, but dont like it, Midnight;silence;bliss!
 * `Lecture` : Hate to give lecture, presentation something like that.
@@ -59,7 +59,7 @@ thus lacks in free modification/customization!
 
 ## My Thoughts
 <br>
-* Need to die early :), in order to end one of my struggle
+* Need to die early :), in order to end one of my nightmare!
 * Being honesty, dont expect me to lie for you!
 * Bad at communication, so try not to misunderstood
 * Respect every one; Everyone have thier own worth!
