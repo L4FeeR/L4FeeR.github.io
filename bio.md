@@ -4,10 +4,10 @@ An 18year old kiddo, who shows some interest towards system especially `Linux`
 <br>
 ### Free-Time Hobby
 --------------------------------------------------------------
-##I spent time on
+# I spent time on
 <br>
 
-### Linux
+## Linux
 
 * Love to explore new utilities, test them and integrate them with my own scripts
 * Building Android, Linux Kernel : Hope to be a `Kramel Dev` :)
@@ -16,7 +16,7 @@ An 18year old kiddo, who shows some interest towards system especially `Linux`
 
 <br>
 
-### Android
+## Android
 <br>
 * *Spotify* : I Listen music too much! <MnM Fan!>
 * *Genshin Impact, PUBG Global* : Fav game i play the most!
@@ -24,13 +24,14 @@ An 18year old kiddo, who shows some interest towards system especially `Linux`
 * *Telegram* : Custom Rom, Linux-LFS, and other community --i spent more here...
 <br>
 
-### Meowy
+## Meowy
 <br>
 * My lovely cat, whome i give a lot of attention towards it, one day its mom came and wanted us to adapt it, 
 * Always recharge its Catnergy with lot of sleep, I love to wake up it by grabbing it and put it in  my shoulder :)
 * whenever it see someother cat in my house, it feel jealous :), I Love It for that :)
 * vro loves to sleep under a closed bedsheet, late night it sleep near me without disturbing my sleep!
 <br>
+
 ## I Hate
 <br>
 * `Apple Ecosystem` : A piece of shit where everything is cofigured on basis of non-opensource project,
