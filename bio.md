@@ -3,15 +3,15 @@
 An 18year old kiddo, who shows some interest towards system especially `Linux`
 <br>
 ### Free-Time Hobby
-
+--------------------------------------------------------------
 I spent time on
 <br>
 ### Linux
 
-	* Love to explore new utilities, test them and integrate them with my own scripts
-	* Building Android, Linux Kernel : Hope to be a `Kramel Dev` :)
-	* Testing new Linux Distro, DE ; `DistrHopper`
-	* Currently Flutter app development...
+* Love to explore new utilities, test them and integrate them with my own scripts
+* Building Android, Linux Kernel : Hope to be a `Kramel Dev` :)
+* Testing new Linux Distro, DE ; `DistrHopper`
+* Currently Flutter app development...
 <br>
 
 ### Android
@@ -21,12 +21,13 @@ I spent time on
 * *InstaGram* : As usual Reels and some personal and tech talks.
 * *Telegram* : Custom Rom, Linux-LFS, and other community --i spent more here...
 <br>
+
 ### Meowy
 <br>
-	* My lovely cat, whome i give a lot of attention towards it, one day its mom came and wanted us to adapt it, 
-	* Always recharge its Catnergy with lot of sleep, I love to wake up it by grabbing it and put it in  my shoulder :)
-	* whenever it see someother cat in my house, it feel jealous :), I Love It for that :)
-	* vro loves to sleep under a closed bedsheet, late night it sleep near me without disturbing my sleep!
+* My lovely cat, whome i give a lot of attention towards it, one day its mom came and wanted us to adapt it, 
+* Always recharge its Catnergy with lot of sleep, I love to wake up it by grabbing it and put it in  my shoulder :)
+* whenever it see someother cat in my house, it feel jealous :), I Love It for that :)
+* vro loves to sleep under a closed bedsheet, late night it sleep near me without disturbing my sleep!
 <br>
 I Hate
 	* `Apple Ecosystem` : A piece of shit where everything is cofigured on basis of non-opensource project,
