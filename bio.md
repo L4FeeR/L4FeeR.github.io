@@ -5,19 +5,23 @@ An 18year old kiddo, who shows some interest towards system especially `Linux`
 ### Free-Time Hobby
 
 I spent time on
+
 	| Linux
+
 	- Love to explore new utilities, test them and integrate them with my own scripts
 	- Building Android, Linux Kernel : Hope to be a `Kramel Dev` :)
 	- Testing new Linux Distro, DE ; `DistrHopper`
 	- Currently Flutter app development...
 
 	| Android
+
 	- *Spotify* : I Listen music too much! <MnM Fan!>
 	- *Genshin Impact, PUBG Global* : Fav game i play the most!
 	- *InstaGram* : As usual Reels and some personal and tech talks.
 	- *Telegram* : Custom Rom, Linux-LFS, and other community --i spent more here...
 
 	| Meowy
+
 	- My lovely cat, whome i give a lot of attention towards it, one day its mom came and wanted us to adapt it, 
 	- Always recharge its Catnergy with lot of sleep, I love to wake up it by grabbing it and put it in  my shoulder :)
 	- whenever it see someother cat in my house, it feel jealous :), I Love It for that :)
@@ -33,7 +37,9 @@ thus lacks in free modification/customization!
 	- `Lecture` : Hate to give lecture, presentation something like that.
 
 My Destiny
+
 	 I have some personal goals, i never expose that anywhere, but lemme say some of my public ones
+
 	- LFS development --Dream project
 	- Skilled programmer
 	- Linux-Kernel developer
@@ -41,6 +47,7 @@ My Destiny
 	- Like to own a company, where i do linux stuffs,
 
 My Thoughts
+
 	- Need to die early :), in order to end one of my struggle
 	- Being honesty, dont expect me to lie for you!
 	- Bad at communication, so try not to misunderstood
