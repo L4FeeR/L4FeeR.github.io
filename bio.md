@@ -61,6 +61,7 @@ thus lacks in free modification/customization!
 <br>
 * Need to die early :), in order to end one of my nightmare!
 * Being honesty, dont expect me to lie for you!
+* Love nd Marry someone who is too honest! 
 * Bad at communication, so try not to misunderstood
 * Respect every one; Everyone have thier own worth!
 * Never Ever Give Up, not publicly but personally/privately.
