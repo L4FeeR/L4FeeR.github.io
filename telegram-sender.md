@@ -7,7 +7,7 @@
 
 	is used to send messages as well as send the output of your terminal command output
 
-## Documnetation
+## Documentation
 
 
 ### Options
@@ -24,7 +24,7 @@
 	Used for debugging or fixing errors on linux to directly send output to my channel.
 
 
-**3.History : **
+**3.History :**
 
 	Here it shows the previously tried terminal command
 
