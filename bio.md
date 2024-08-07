@@ -6,16 +6,16 @@ An 18year old kiddo, who shows some interest towards system especially `Linux`
 
 I spent time on
 <br>
-	### *Linux*
+	#### Linux
 
 	* Love to explore new utilities, test them and integrate them with my own scripts
 	* Building Android, Linux Kernel : Hope to be a `Kramel Dev` :)
 	* Testing new Linux Distro, DE ; `DistrHopper`
 	* Currently Flutter app development...
 <br>
-	### *Android*
+	### Android
 <br>
-	* *Spotify* : I Listen music too much! <MnM Fan!>
+	* - Spotify : I Listen music too much! <MnM Fan!>
 	* *Genshin Impact, PUBG Global* : Fav game i play the most!
 	* *InstaGram* : As usual Reels and some personal and tech talks.
 	* *Telegram* : Custom Rom, Linux-LFS, and other community --i spent more here...
