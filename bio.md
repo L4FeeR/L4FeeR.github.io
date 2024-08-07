@@ -67,4 +67,5 @@ thus lacks in free modification/customization!
 * Never expose urself too much, not good at every time!
 * Fuck Being SLAVERY! We are not S1uts!
 -----------------------------------------------------
-
+[back](aboot.md)
+-----------------------------------------------------
