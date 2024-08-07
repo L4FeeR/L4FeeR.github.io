@@ -33,6 +33,6 @@
 
 -----------------------------------------------------------------------------
 
-[Articles](/articles.md) | [Git-Repositories](https://github.com/L4FeeR?tab=repositories) | [Bio-Own-ology](/aboutme.md)
+[Articles](/articles.md) | [Git-Repositories](https://github.com/L4FeeR?tab=repositories) | [Bio-Own-ology](/bio.md)
 
 -----------------------------------------------------------------------------
