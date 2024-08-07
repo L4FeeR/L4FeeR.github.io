@@ -65,6 +65,6 @@ thus lacks in free modification/customization!
 * Respect every one; Everyone have thier own worth!
 * Never Ever Give Up, not publicly but personally/privately.
 * Never expose urself too much, not good at every time!
-* Fuck SLAVERY! We are not S1ut!
+* Fuck Being SLAVERY! We are not S1uts!
 -----------------------------------------------------
 
