@@ -5,7 +5,7 @@ An 18year old kiddo, who shows some interest towards system especially `Linux`
 ### Free-Time Hobby
 --------------------------------------------------------------
 ##I spent time on
-</br>
+<br>
 
 ### Linux
 
@@ -14,15 +14,15 @@ An 18year old kiddo, who shows some interest towards system especially `Linux`
 * Testing new Linux Distro, DE ; `DistrHopper`
 * Currently Flutter app development...
 
-</br>
+<br>
 
 ### Android
-</br>
+<br>
 	* *Spotify* : I Listen music too much! <MnM Fan!>
 	* *Genshin Impact, PUBG Global* : Fav game i play the most!
 	* *InstaGram* : As usual Reels and some personal and tech talks.
 	* *Telegram* : Custom Rom, Linux-LFS, and other community --i spent more here...
-</br>
+<br>
 
 ### Meowy
 <br>
@@ -32,7 +32,7 @@ An 18year old kiddo, who shows some interest towards system especially `Linux`
 	* vro loves to sleep under a closed bedsheet, late night it sleep near me without disturbing my sleep!
 <br>
 ## I Hate
-</br>
+<br>
 	* `Apple Ecosystem` : A piece of shit where everything is cofigured on basis of non-opensource project,
 thus lacks in free modification/customization!
 	* `Being disrespected` : Never give a fuck if i felt one time*
@@ -44,7 +44,7 @@ thus lacks in free modification/customization!
 
 ### My Destiny
 
-</br>
+<br>
 	 I have some personal goals, i never expose that anywhere, but lemme say some of my public ones
 <br>
 	* LFS development --Dream project
