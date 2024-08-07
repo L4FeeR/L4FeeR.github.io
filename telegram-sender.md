@@ -1,16 +1,16 @@
 
 #  ***Telegram-Sender***
 
-##What this tool do:
+## What this tool do:
 
  `Telegram-sender`
 
 	is used to send messages as well as send the output of your terminal command output
 
-##Documnetation
+## Documnetation
 
 
-###Options
+### Options
 
 **1.Message :**
 
