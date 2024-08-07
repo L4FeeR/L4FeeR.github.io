@@ -15,5 +15,5 @@
 
 # 					Hola!
 ##			--------------------------------------
-##			[Press 1 To Enter New World!](menu.html) 
+##			[Press 1 To Enter New World!](aboot.md) 
 ##			--------------------------------------
