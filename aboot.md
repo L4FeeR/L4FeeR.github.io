@@ -31,6 +31,9 @@
 
 **FileSystem		: Always BTRFS :)**
 
+**CPU			: Intel i3-3217U (4) @ 1.800GHz**
+
+**MEM			: 8Gigs | 478.9Gigs**
 -----------------------------------------------------------------------------
 
 [Articles](/articles.md) | [Git-Repositories](https://github.com/L4FeeR?tab=repositories) | [Bio-Own-ology](/bio.md)
