@@ -19,7 +19,7 @@
 *  * *
 ## **Contacts**
 
-[Telegram](https://t.me/l4feer) | [Github](github.com/l4feer) | [Mail](muhamedlafeer837@gmail.com) | [Discord](discord.me/l4feer0429)
+[Telegram](https://t.me/l4feer) | [Github](https://github.com/l4feer) | [Mail](https://gmail.com/muhamedlafeer837@gmail.com) | [Discord](https://discord.me/l4feer0429)
 
 * * *
 
