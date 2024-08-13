@@ -1,7 +1,7 @@
-#The Lost one
+# The Lost one
 
-##What do you know about the lost-person?
-
+## What do you know about the lost-person?
+ 
 Exactly am talking about the one who lost themselves in everything
 who lost his interest in everything he loved before, 
 who lost his hobby , who changed himself completely opposite to past him,
