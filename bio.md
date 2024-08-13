@@ -27,7 +27,7 @@ An 18year old kiddo, who shows some interest towards system especially `Linux`
 ## Meowy
 <br>
 * My lovely cat, whome i give a lot of attention towards it, one day its mom came and wanted us to adapt it, 
-* Always recharge its Catnergy with lot of sleep, I love to wake up it by grabbing it and put it in  my shoulder :)
+* Always recharge its Catnergy with lot of sleep, I love [:)](loost.md)to wake up it by grabbing it and put it in  my shoulder :)
 * whenever it see someother cat in my house, it feel jealous :), I Love It for that :)
 * vro loves to sleep under a closed bedsheet, late night it sleep near me without disturbing my sleep!
 
