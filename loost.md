@@ -9,9 +9,9 @@ who became the one where he dont want to!
 he who becomes the none!
 
 It may sound crazy, but not everyone understand what am meaning here.
-Lemme say this; if u donno what am referring,  heres the place for you to visit >> * <<
+Lemme say this; if u donno what am referring,  heres the place for you to visit >> [*](gu.md) <<
 
-If u had something to say here u can try here >> * <<
+If u had something to say here u can try here >> [*](https://github.com/L4FeeR/L4FeeR.github.io/issues/1) <<
 
 ---
 
