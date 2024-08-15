@@ -1,7 +1,10 @@
 # The Best Lyrico
 
 ## Sweater Weather
-![sweater weather](assets/sw.ogg)
+ <audio controls>
+        <source src="assets/sw.ogg" type="audio/mp3">
+        Your browser does not support the audio tag.
+    </audio>
 
 **Lyrics**
  
