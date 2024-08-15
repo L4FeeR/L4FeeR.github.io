@@ -36,6 +36,6 @@
 **MEM			: 8Gigs | 478.9Gigs**
 -----------------------------------------------------------------------------
 
-[Articles](/articles.md) | [Git-Repositories](https://github.com/L4FeeR?tab=repositories) | [Bio-Own-ology](/bio.md)
+[Articles](/articles.md) | [Git-Repositories](https://github.com/L4FeeR?tab=repositories) | [Lyrico](/soong/s1.md)  | [Bio-Own-ology](/bio.md)
 
 -----------------------------------------------------------------------------
