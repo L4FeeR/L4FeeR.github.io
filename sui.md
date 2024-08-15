@@ -92,18 +92,52 @@
   > *Please, don't cry no tears now, it's Christmas, baby*
 
   > *My snowman and me*
+
   > *My snowman and me*
 
-  > *
-  > *
-  > *
-  > *
-  > *
-  > *
-  > *
-  > *
+  > *Baby 
 
-
+  > * * * * * *
 -----------
 
-## 3.
+## 3.Shinunoga Ewa
+
+<audio controls>
+        <source src="assets/shinunoga.mp3" type="audio/mp3">
+        Your browser does not support the audio tag.
+    </audio>
+
+###    Lyrics
+
+
+   > *Soredemo tokidoki uwatsuku my heart*
+
+   > *Shindemo naorana naoshite misemasu baby*
+
+   > *Yeah, I ain't nothing but ya baby*
+
+   > *Ushinatte hajimete kigatsuku nante*
+
+   > *Son'na dasai koto mo ushita nai no yo goodbye*
+
+   > *Oh, don't you ever say bye-bye*
+
+   > *Yeah, yeah*
+
+   > *Watashi no saigo wa anata ga ī*
+
+   > *Anata toko no mama o saraba suru yori*
+
+   > *Shinu no ga ī wa*
+
+   > *Shinu no ga ī wa*
+
+   > *San-do no meshi yori anta ga ī no yo*
+
+   > *Anta toko no mama o saraba suru yo ka*
+
+   > *Shinu no ga ī wa*
+
+   > *Shinu no ga ī wa*
+
+   > * * * * * * 
