@@ -8,7 +8,7 @@
         Your browser does not support the audio tag.
     </audio>
 
-### Lyrics
+###   Lyrics
 
   > *`... holes of my sweater*
 
@@ -68,4 +68,42 @@
 -----------
 
 ## 2.SnowMan
+<audio controls>
+        <source src="assets/snowman.mp3" type="audio/mp3">
+        Your browser does not support the audio tag.
+    </audio>
 
+###   Lyrics
+
+  > *I want you to know that I'm never leaving*
+
+  > *'Cause I'm Mrs. Snow, 'til death we'll be freezing*
+
+  > *Yeah, you are my home, my home for all seasons*
+
+  > *So come on, let's go*
+
+  > *Let's go below zero and hide from the sun*
+
+  > *I love you forever where we'll have some fun*
+
+  > *Yes, let's hit the North Pole and live happily*
+
+  > *Please, don't cry no tears now, it's Christmas, baby*
+
+  > *My snowman and me*
+  > *My snowman and me*
+
+  > *
+  > *
+  > *
+  > *
+  > *
+  > *
+  > *
+  > *
+
+
+-----------
+
+## 3.
