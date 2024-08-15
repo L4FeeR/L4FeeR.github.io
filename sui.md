@@ -1,19 +1,21 @@
-# The Best Lyrico
+# Best parts in songs
 
-## Sweater Weather
+### Hope everyone enjoy songs, these are my some of song's some part, which having good lyrics where u cannot find anywhere!
+----------------
+## 1. Sweater Weather
  <audio controls>
         <source src="assets/sw.ogg" type="audio/mp3">
         Your browser does not support the audio tag.
     </audio>
 
-**Lyrics**
+### Lyrics
  
-`And now, so let me hold
-Both your hands in the holes of my sweater
-And if I may just take your breath away
-I don't mind if there's not much to say
-Sometimes the silence guides a mind
-To move to a place so far away
+   - And now, so let me hold
+   - Both your hands in the holes of my sweater
+   - And if I may just take your breath away
+   - I don't mind if there's not much to say
+   - Sometimes the silence guides a mind
+   - To move to a place so far away
 The goosebumps start to raise
 The minute that my left hand meets your waist
 And then I watch your face
